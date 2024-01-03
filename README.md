@@ -14,6 +14,10 @@ Apache Maven
 ### Integrated Development Environment (IDE)
 Eclipse Photon
 
+
+## Project Setup:
+
+
 ### Instructions:
 
 
@@ -34,8 +38,6 @@ Maven is utilized for project automation. Make sure Maven is installed on your m
 
 Eclipse Photon is the recommended IDE for this project. You can download it from the official Eclipse website.
 
-
-## Project Setup:
 
 #### Clone the Repository:
 
