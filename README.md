@@ -27,8 +27,7 @@ Ensure that Java 1.7 is installed on your system. You can download it from Oracl
 
 #### Tesseract Tess4j:
 
-Tess4j is used for OCR in this project. Include the necessary Tess4j dependencies in your project. You can find Tess4j information and documentation - [https://sourceforge.net/projects/tesseract-ocr.mirror/](#installation)
-.
+Tess4j is used for OCR in this project. Include the necessary Tess4j dependencies in your project. You can find Tess4j information and can download from [here](https://sourceforge.net/projects/tesseract-ocr.mirror/).
 
 ##### Apache Maven:
 
@@ -38,10 +37,6 @@ Maven is utilized for project automation. Make sure Maven is installed on your m
 
 Eclipse Photon is the recommended IDE for this project. You can download it from the official Eclipse website.
 
-
-#### Clone the Repository:
-
-git clone https://github.com/your-username/legal-doc-identification.git
 
 #### Import Project into Eclipse:
 
