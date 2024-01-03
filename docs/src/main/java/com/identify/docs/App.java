@@ -72,7 +72,7 @@ public class App {
 				Tesseract tesseract = new Tesseract();
 				System.out.println("Tesseract Object: "+tesseract);
 				
-				tesseract.setDatapath("C:\\Users\\Arijit\\Downloads\\Tess4J-3.4.8-src\\Tess4J\\tessdata");
+				tesseract.setDatapath("D:\\Tesseract\\Tess4J-3.4.8-src\\Tess4J\\tessdata");
 				tesseract.setLanguage("eng");
 
 				System.out.println("Before OCR");
